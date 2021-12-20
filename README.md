@@ -16,5 +16,5 @@
 
 ### 👯 Other interest: I love to read blogs and to play volleyball.
 
-### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mausam-kumar-3b78aa16a/) [![Email Badge](https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg)]#mausam_oct@outlook.com
+### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mausam-kumar-3b78aa16a/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px"> mausam_oct@outlook.com]
 
