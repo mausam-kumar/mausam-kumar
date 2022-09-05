@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Mausam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h2 align="center">Working as UI Engineer at <a href="https://www.useplaza.com/">Plaza!</a> </h2>
+
 
 
 <p align='center'>
